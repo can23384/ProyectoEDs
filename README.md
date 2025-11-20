@@ -48,11 +48,15 @@ El programa generará automáticamente:
 
 ------------------------------------------------------------------------
 
-## 🎥 **Video del proyecto**
+## 👉 **Enlaces del video y del documento**
 
-👉 **Video explicativo:** 
+🎥 **Video explicativo:** 
 
     https://youtu.be/B_KnwWvv7X0
+
+👉 **Overleaf:** 
+
+    https://es.overleaf.com/read/ykwjvqqkdmvd#b70350
 
 
 
